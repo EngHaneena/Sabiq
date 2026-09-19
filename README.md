@@ -1,4 +1,4 @@
-# 🧭 سابق | Sabiq: Smart Career & Tech-Stack Architect 🚀
+# 🧭 سابق | Sabiq Smart Career & Tech-Stack Architect 🚀
 > **الحاصل على المركز الثاني في معسكر Machine Learning Models 🥈**[cite: 3]
 
 نظام ذكي وشامل لتحليل سوق العمل البرمجي وتوجيه المطورين والطلاب لبناء مساراتهم المهنية بالأرقام والذكاء الاصطناعي، بالاعتماد على استبيان مطوري **Stack Overflow** العالمي (+76 ألف مطور)[cite: 1, 2].
