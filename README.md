@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧭 سابق | Sabiq: Smart Career & Tech-Stack Architect 🚀
+# 🧭 سابق | Sabiq Smart Career & Tech-Stack Architect 🚀
 
 ### **الحاصل على المركز الثاني في معسكر Machine Learning Models 🥈**
 
@@ -85,6 +85,7 @@ skill_matrix.jpg: الإنفوجرافيك الملون لمصفوفة المه�
 career_roadmap.pptx: العرض التقديمي المؤتمت وخارطة الطريق المهنية
 
 👥 فريق العمل
+
 حنين القصير — معالجة البيانات والواجهة التفاعلية (Data Pipeline & UI)
 
 وفاء — التحليل الإحصائي ومصفوفة المهارات البصرية (Visual Analytics)
