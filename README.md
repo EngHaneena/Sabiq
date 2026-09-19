@@ -36,7 +36,7 @@
 * إنتاج إنفوجرافيك ملون بنظام الأرباع يوضح المهارات الإلزامية للتوظيف والمهارات النوعية عالية الدخل.
 
 <p align="center">
-  <img src="skill_matrix.jpg" alt="Sabiq Visual Skill Matrix" width="750">
+  <img src="skill_matrix.png" alt="Sabiq Visual Skill Matrix" width="750">
 </p>
 
 ### 3️⃣ التنبؤ المالي بالذكاء الاصطناعي (Machine Learning Pipeline)
