@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧭 سابق | Sabiq Smart Career & Tech-Stack Architect 🚀
+# 🧭 سابق | Sabiq: Smart Career & Tech-Stack Architect 🚀
 
 ### **الحاصل على المركز الثاني في معسكر Machine Learning Models 🥈**
 
@@ -40,19 +40,19 @@
 </p>
 
 ### 3️⃣ التنبؤ المالي بالذكاء الاصطناعي (Machine Learning Pipeline)
-* تدريب نموذج انحدار غابات عشوائية (`RandomForestRegressor`) عبر مكتبة `scikit-learn`[cite: 1].
-* تقييم دقة النموذج بمقاييس معيارية: $R^2$ Score، ومتوسط الخطأ المطلق (MAE)، ونسبة التنبؤات المقبولة ضمن هامش خطأ ±20%[cite: 1].
-* حساب وزن وأهمية كل تقنية في رفع القيمة السوقية للمطور (`Feature Importance`)[cite: 1].
-* توفير محاكي حي لتوقع الراتب السنوي التقديري بناءً على المهارات وسنوات الخبرة[cite: 1].
+* تدريب نموذج انحدار غابات عشوائية (`RandomForestRegressor`) عبر مكتبة `scikit-learn`.
+* تقييم دقة النموذج بمقاييس معيارية: $R^2$ Score، ومتوسط الخطأ المطلق (MAE)، ونسبة التنبؤات المقبولة ضمن هامش خطأ ±20%.
+* حساب وزن وأهمية كل تقنية في رفع القيمة السوقية للمطور (`Feature Importance`).
+* توفير محاكي حي لتوقع الراتب السنوي التقديري بناءً على المهارات وسنوات الخبرة.
 
 ### 4️⃣ أتمتة العرض التقديمي وخارطة الطريق (Deck Generation)
-* توليد عرض تقديمي متكامل من 5 شرائح بصيغة PowerPoint (`career_roadmap.pptx`) بتصميم داكن احترافي عبر `python-pptx`[cite: 1].
-* دمج نتائج الإنفوجرافيك، وتحليلات الذكاء الاصطناعي، وخطة عمل مرحلية، وترشيح أهم الدورات والشهادات العالمية المعتمدة لكل مهارة[cite: 1].
+* توليد عرض تقديمي متكامل من 5 شرائح بصيغة PowerPoint (`career_roadmap.pptx`) بتصميم داكن احترافي عبر `python-pptx`.
+* دمج نتائج الإنفوجرافيك، وتحليلات الذكاء الاصطناعي، وخطة عمل مرحلية، وترشيح أهم الدورات والشهادات العالمية المعتمدة لكل مهارة.
 
 ---
 
 ## 🏆 التكريم والإنجاز
-حقق المشروع **المركز الثاني** في ختام معسكر نماذج تعلّم الآلة (Machine Learning Models Bootcamp)[cite: 3].
+حقق المشروع **المركز الثاني** في ختام معسكر نماذج تعلّم الآلة (Machine Learning Models Bootcamp).
 
 <p align="center">
   <img src="award_second_place.jpg" alt="2nd Place Award" width="650">
@@ -62,11 +62,11 @@
 
 ## 🛠️ التقنيات والمكتبات المستخدمة (Tech Stack)
 
-* **لغة البرمجة:** Python[cite: 1]
-* **تحليل ومعالجة البيانات:** Pandas, NumPy[cite: 1]
-* **تعلّم الآلة (Machine Learning):** Scikit-Learn[cite: 1]
-* **الرسم البياني وتشكيل النصوص:** Matplotlib, Arabic-Reshaper, Python-Bidi[cite: 1]
-* **الواجهة التفاعلية وأتمتة العروض:** Ipywidgets, Python-pptx[cite: 1]
+* **لغة البرمجة:** Python
+* **تحليل ومعالجة البيانات:** Pandas, NumPy
+* **تعلّم الآلة (Machine Learning):** Scikit-Learn
+* **الرسم البياني وتشكيل النصوص:** Matplotlib, Arabic-Reshaper, Python-Bidi
+* **الواجهة التفاعلية وأتمتة العروض:** Ipywidgets, Python-pptx
 
 ---
 
@@ -76,3 +76,17 @@
    ```bash
    git clone [https://github.com/EngHaneena/Sabiq.git](https://github.com/EngHaneena/Sabiq.git)
    cd Sabiq
+
+📁 مخرجات المشروع (Deliverables)
+AI_siyaq.ipynb: المفكرة البرمجية المتكاملة
+
+skill_matrix.jpg: الإنفوجرافيك الملون لمصفوفة المهارات.
+
+career_roadmap.pptx: العرض التقديمي المؤتمت وخارطة الطريق المهنية
+
+👥 فريق العمل
+حنين القصير — معالجة البيانات والواجهة التفاعلية (Data Pipeline & UI)
+
+وفاء — التحليل الإحصائي ومصفوفة المهارات البصرية (Visual Analytics)
+
+أميرة — نماذج تعلّم الآلة وأتمتة العرض التقديمي (Machine Learning & Deck Automation)
