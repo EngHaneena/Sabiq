@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🧭 سابق | Sabiq: Smart Career & Tech-Stack Architect 🚀
+# 🧭 سابق | Sabiq Smart Career & Tech-Stack Architect 🚀
 
-### **الحاصل على المركز الثاني في معسكر Machine Learning Models 🥈**[cite: 3]
+### **الحاصل على المركز الثاني في معسكر Machine Learning Models 🥈**
 
 <p align="center">
   <img src="banner.jpg" alt="Sabiq Banner" width="850">
