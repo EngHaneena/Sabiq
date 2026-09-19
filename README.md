@@ -1,14 +1,11 @@
 <div align="center">
 
 # 🧭 سابق | Sabiq: Smart Career & Tech-Stack Architect 🚀
-<img width="2752" height="1536" alt="Gemini_Generated_Image_ljgn16ljgn16ljgn" 
-### **الحاصل على المركز الثاني في معسكر Machine Learning Models 🥈**
-src="https://github.com/user-attachments/assets/e40cae97-3cb6-4c91-974a-0fcf31a1d779" />
-<img width="1100" height="617" alt="1" src="https://github.com/user-attachments/assets/a5dd6123-881c-46a6-98af-8a7ab04a7fd8" />
 
+### **الحاصل على المركز الثاني في معسكر Machine Learning Models 🥈**[cite: 3]
 
 <p align="center">
-  <img src="banner.png" alt="Sabiq Banner" width="850">
+  <img src="banner.jpg" alt="Sabiq Banner" width="850">
 </p>
 
 *نظام ذكي لتحليل سوق العمل البرمجي وتوجيه المطورين والطلاب لبناء مساراتهم المهنية بالأرقام والذكاء الاصطناعي، بالاعتماد على استبيان مطوري Stack Overflow العالمي (+76 ألف مطور).*
@@ -19,6 +16,12 @@ src="https://github.com/user-attachments/assets/e40cae97-3cb6-4c91-974a-0fcf31a1
 
 ## 📌 عن المشروع
 يواجه طلاب وخريجو علوم الحاسب وهندسة البرمجيات تشتتاً مستمراً عند اختيار التقنيات والمسارات الوظيفية؛ حيث تعتمد أغلب النصائح على آراء فردية عامة. يهدف **"سابق"** إلى تحويل البيانات الضخمة إلى قرارات مهنية واضحة، مع تقديم توقع مالي دقيق وخطة عمل مؤتمتة بضغطة زر.
+
+---
+
+## 💡 الفرق التقني والتنظيمي (Repository vs. Project)
+* **المستودع (Repository):** هو المكان الفعلي لتخزين الكود المصدري، معالجة البيانات، ملفات المفكرة (`.ipynb`)، وتتبع سجل التعديلات البرمجية (Version Control).
+* **إدارة المشروع (GitHub Project):** هو لوحة تنظيم المهام وتوزيع الأدوار بين أعضاء الفريق لمتابعة سير الإنجاز والمراحل التنفيذية (Workflow & Task Tracking).
 
 ---
 
@@ -33,13 +36,13 @@ src="https://github.com/user-attachments/assets/e40cae97-3cb6-4c91-974a-0fcf31a1
 * إنتاج إنفوجرافيك ملون بنظام الأرباع يوضح المهارات الإلزامية للتوظيف والمهارات النوعية عالية الدخل.
 
 <p align="center">
-  <img src="skill_matrix.png" alt="Sabiq Visual Skill Matrix" width="750">
+  <img src="skill_matrix.jpg" alt="Sabiq Visual Skill Matrix" width="750">
 </p>
 
 ### 3️⃣ التنبؤ المالي بالذكاء الاصطناعي (Machine Learning Pipeline)
-* تدريب نموذج انحدار غابات عشوائية (`RandomForestRegressor`) عبر مكتبة `scikit-learn`.
-* تقييم دقة النموذج بمقاييس معيارية: $R^2$ Score، ومتوسط الخطأ المطلق (MAE)، ونسبة التنبؤات المقبولة ضمن هامش خطأ ±20%.
-* حساب وزن وأهمية كل تقنية في رفع القيمة السوقية للمطور (`Feature Importance`).
+* تدريب نموذج انحدار غابات عشوائية (`RandomForestRegressor`) عبر مكتبة `scikit-learn`[cite: 1].
+* تقييم دقة النموذج بمقاييس معيارية: $R^2$ Score، ومتوسط الخطأ المطلق (MAE)، ونسبة التنبؤات المقبولة ضمن هامش خطأ ±20%[cite: 1].
+* حساب وزن وأهمية كل تقنية في رفع القيمة السوقية للمطور (`Feature Importance`)[cite: 1].
 * توفير محاكي حي لتوقع الراتب السنوي التقديري بناءً على المهارات وسنوات الخبرة[cite: 1].
 
 ### 4️⃣ أتمتة العرض التقديمي وخارطة الطريق (Deck Generation)
@@ -52,7 +55,7 @@ src="https://github.com/user-attachments/assets/e40cae97-3cb6-4c91-974a-0fcf31a1
 حقق المشروع **المركز الثاني** في ختام معسكر نماذج تعلّم الآلة (Machine Learning Models Bootcamp)[cite: 3].
 
 <p align="center">
-  <img src="award_second_place.png" alt="2nd Place Award" width="650">
+  <img src="award_second_place.jpg" alt="2nd Place Award" width="650">
 </p>
 
 ---
@@ -73,21 +76,3 @@ src="https://github.com/user-attachments/assets/e40cae97-3cb6-4c91-974a-0fcf31a1
    ```bash
    git clone [https://github.com/EngHaneena/Sabiq.git](https://github.com/EngHaneena/Sabiq.git)
    cd Sabiq
-   تشغيل المفكرة:
-
-تشغيل خلايا مفكرة AI_siyaq.ipynb بالتسلسل على Google Colab أو Jupyter Notebook[cite: 1].
-
-📁 مخرجات المشروع (Deliverables)
-AI_siyaq.ipynb: المفكرة البرمجية المتكاملة<img width="2752" height="1536" alt="Gemini_Generated_Image_ljgn16ljgn16ljgn" src="https://github.com/user-attachments/assets/89574ebf-d6e7-48b0-9787-e94d7beca7c0" />
-
-
-skill_matrix.png: الإنفوجرافيك الملون لمصفوفة المهارات
-
-career_roadmap.pptx: العرض التقديمي المؤتمت وخارطة الطريق المهنية
-
-👥 فريق العمل
-حنين القصير — معالجة البيانات والواجهة التفاعلية (Data Pipeline & UI)
-
-وفاء — التحليل الإحصائي ومصفوفة المهارات البصرية (Visual Analytics)
-
-أميرة — نماذج تعلّم الآلة وأتمتة العرض التقديمي (Machine Learning & Deck Automation)
