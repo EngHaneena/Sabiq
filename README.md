@@ -90,4 +90,4 @@ career_roadmap.pptx: العرض التقديمي المؤتمت وخارطة ا�
 
 وفاء المصري - التحليل الإحصائي ومصفوفة المهارات البصرية (Visual Analytics)
 
-أميرة احكد - نماذج تعلّم الآلة وأتمتة العرض التقديمي (Machine Learning & Deck Automation)
+أميرة احمد - نماذج تعلّم الآلة وأتمتة العرض التقديمي (Machine Learning & Deck Automation)
